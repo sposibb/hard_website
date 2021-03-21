@@ -1,0 +1,42 @@
+.title{
+    text-align: center;
+}
+.background_color{
+    background-color: #990909;
+}
+.text_header{
+    color: white;
+}
+.backcolor {
+    background-color: black;
+}
+.img1, .img2, .img3, .img4{
+    margin-left: 50px;
+    margin-right: 75px;
+    margin-block-end: 4px;
+    margin-block-start: 0px;
+}
+.text_header{
+    margin-left: 50px;
+    margin-right: 75px;
+    margin-block-end: 50px;
+    margin-block-start: 50px;
+}
+.header_link1, .header_link2, .header_link3, .header_link4{
+    margin-left: 150px;
+    margin-right: 170px;
+    color: white;
+    font-size: 18px;
+}
+.main_text{
+    font-size: 18px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+.aside1{
+    margin-left: 0px;
+    margin-block-end: 0px;
+
+}
